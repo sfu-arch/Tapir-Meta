@@ -1,0 +1,3 @@
+[submodule "Parallel-IR"]
+	path = Parallel-IR
+	url = https://github.com/sfu-arch/Parallel-IR
