@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Top-level source directory
-LLVM_SRC=$PWD/tapir
+LLVM_SRC=$PWD/Parallel-IR
 # Build directory
 LLVM_BUILD=$LLVM_SRC/build
 INSTALL=$PWD/install
